@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at Universidade de Brasilia (UnB)
-- 🌱 I’m currently learning about FrontEnd
+- 🌱 I’m currently learning about Front End
 - 👯 I’m looking to collaborate on projects that involves AI, Web Development and competitive programming
 - 💬 Ask me about coding, animes, soccer, actually anything 😄
 - 📫 How to reach me: daviunb25@gmail.com
