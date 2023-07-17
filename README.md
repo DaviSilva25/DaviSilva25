@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: daviunb25@gmail.com
 - ⚡ Fun fact: I can grab a glass with the back of my hand
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSilva25&show_icons=true&theme=aura_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSilva25&theme=tokyonight&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSilva25&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSilva25&&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)
